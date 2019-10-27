@@ -1,0 +1,16 @@
+
+OUTPUT:
+
+    Temperature during January is 58 degrees.
+    Temperature during February is 62 degrees.
+    Temperature during March is 64 degrees.
+    Temperature during April is 69 degrees.
+    Temperature during May is 73 degrees.
+    Temperature during June is 77 degrees.
+    Temperature during July is 79 degrees.
+    Temperature during August is 79 degrees.
+    Temperature during September is 78 degrees.
+    Temperature during October is 73 degrees.
+    Temperature during November is 64 degrees.
+    Temperature during December is 58 degrees
+

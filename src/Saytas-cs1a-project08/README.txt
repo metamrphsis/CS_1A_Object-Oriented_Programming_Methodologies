@@ -1,0 +1,32 @@
+project folder:
+Saytas-cs1a-project08/
+
+
+Brief description of submitted files:
+
+src/game/Ship.java
+    - This class provides functionality for keeping track of the ship state
+
+src/game/GuessOrSink.java
+    - This class enables the user to play a console game where they have to guess the letters in a randomly chosen word
+
+src/game/Game.java
+    - Main application displays a menu to the user where the user can choose to play a console game and prompts the user
+      to enter a predetermined word the program is thinking of. Depending on
+      if the letter is being guessed correctly or not, the program either displays the guessed letter in its position
+      in the word or draws an ASCII representation of a sinking ship. Furthermore, the program keeps track of whether the user
+      had already guessed the letter previously so that do not count the guess for or against them. Once the game is finished,
+      the program provides a menu option that asks the user if they want to continue playing the game. If user enters any character,
+      the program chooses another word and continues with the game. Otherwise, the program terminates if the user enters 'quit' or 'q'
+
+resources/RUN.txt
+    - Output of GuessOrSink class displays a menu to the user where the user can choose to playe a console game and displays
+      the user's guesses of letters that make up a word. Depending on
+      if the letter is being guessed correctly or not, the program either displays the guessed letter in its position
+      in the word or draws an ASCII representation of a sinking ship. Furthermore, the program keeps track of whether the user
+      had already guessed the letter previously so that do not count the guess for or against them. Once the game is finished,
+      the program provides a menu option that asks the user if they want to continue playing the game. If user enters any character,
+      the program chooses another word and continues with the game. Otherwise, the program terminates if the user enters 'quit' or 'q'
+
+README.txt
+    - Description of submitted files

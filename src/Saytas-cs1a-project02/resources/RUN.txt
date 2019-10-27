@@ -1,0 +1,31 @@
+// TODO: For every project run your program.
+//       Then copy and paste the output in a file titled RUN under resources folder. 
+
+Hello. Welcome to lunar drift calculator!
+
+Distance of Earth to moon in year 1900 is 3680420 meters.
+Test case 1:
+Distance of Earth to moon in year 1986 was 3.68042003268E8 meters.
+History: In 1986 when the NASA shuttle orbiter mission
+STS-51-L and the tenth flight of Space Shuttle Challenger (OV-99)
+broke apart 73 seconds into its flight, killing all seven crew members,
+which consisted of five NASA astronauts and two payload specialists (Wikipedia).
+Difference between moon in year 1900 and year 1986 is 3.26800000667572 meters.
+
+Test case 2:
+Distance of Earth to moon in year 1989 was 3.68042003382E8 meters.
+History: In 1989 the 'Tiananmen Square protests of 1989', commonly
+known in mainland China as the June fourth incident, were student-led
+demonstrations in Beijing, the capital of the People's Republic of
+China, in 1989 (Wikipedia).
+Difference between moon in year 1900 and year 1989 is 3.3820000290870667 meters.
+
+Test case 3:
+Distance of Earth to moon in year 1999 was 3.68042003762E8 meters.
+History: In 1999 the loss of Mars Climate Orbiter. The 'root cause'
+of the loss of the spacecraft was the failed translation of English
+units into metric units in a segment of ground-based, navigation
+related mission software (NASA Jet Propulsion LAB (JPL)).
+Difference between moon in year 1900 and year 1999 is 3.762000024318695 meters.
+
+Done with LunarDrift!

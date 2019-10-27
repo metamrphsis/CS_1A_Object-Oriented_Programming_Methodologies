@@ -1,0 +1,2311 @@
+-----------------------------------------------------
+-----------------------------------------------------
+NOTES: Testing when user makes all correct guesses.
+-----------------------------------------------------
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 8 letter word: _ _ _ _ _ _ _ _
+You have 9 guesses.
+Hint: One of the famous Renaissance artists
+Number incorrect = 0	Word length = 8
+
+Enter your guess:
+n
+
+Correct!
+___n____
+
+
+Number incorrect = 0	Word length = 8
+
+Enter your guess:
+r
+
+Correct!
+___n_r__
+
+
+Number incorrect = 0	Word length = 8
+
+Enter your guess:
+o
+
+Correct!
+__on_r_o
+
+
+Number incorrect = 0	Word length = 8
+
+Enter your guess:
+l
+
+Correct!
+l_on_r_o
+
+
+Number incorrect = 0	Word length = 8
+
+Enter your guess:
+e
+
+Correct!
+leon_r_o
+
+
+Number incorrect = 0	Word length = 8
+
+Enter your guess:
+a
+
+Correct!
+leonar_o
+
+
+Number incorrect = 0	Word length = 8
+
+Enter your guess:
+d
+
+Correct!
+leonardo
+
+
+Bravo! You guessed all the letters right!
+
+You saved the day. The word is: LEONARDO.
+
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+
+Game Over
+
+Do you want to quit (enter q/quit) or play again (enter anything else)?
+yes
+
+New game is starting...
+
+
+
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 12 letter word: _ _ _ _ _ _ _ _ _ _ _ _
+You have 13 guesses.
+Hint: One of the famous Renaissance artists
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+l
+
+Correct!
+_____l____l_
+
+
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+g
+
+Correct!
+_____l__g_l_
+
+
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+e
+
+Correct!
+____el__gel_
+
+
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+i
+
+Correct!
+_i__el__gel_
+
+
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+c
+
+Correct!
+_ic_el__gel_
+
+
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+h
+
+Correct!
+_ichel__gel_
+
+
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+a
+
+Correct!
+_ichela_gel_
+
+
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+o
+
+Correct!
+_ichela_gelo
+
+
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+n
+
+Correct!
+_ichelangelo
+
+
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+m
+
+Correct!
+michelangelo
+
+
+Bravo! You guessed all the letters right!
+
+You saved the day. The word is: MICHELANGELO.
+
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+
+Game Over
+
+Do you want to quit (enter q/quit) or play again (enter anything else)?
+yes
+
+New game is starting...
+
+
+
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 7 letter word: _ _ _ _ _ _ _
+You have 8 guesses.
+Hint: One of the famous Renaissance artists
+Number incorrect = 0	Word length = 7
+
+Enter your guess:
+l
+
+Correct!
+______l
+
+
+Number incorrect = 0	Word length = 7
+
+Enter your guess:
+r
+
+Correct!
+r_____l
+
+
+Number incorrect = 0	Word length = 7
+
+Enter your guess:
+p
+
+Correct!
+r_p___l
+
+
+Number incorrect = 0	Word length = 7
+
+Enter your guess:
+h
+
+Correct!
+r_ph__l
+
+
+Number incorrect = 0	Word length = 7
+
+Enter your guess:
+e
+
+Correct!
+r_ph_el
+
+
+Number incorrect = 0	Word length = 7
+
+Enter your guess:
+a
+
+Correct!
+raphael
+
+
+Bravo! You guessed all the letters right!
+
+You saved the day. The word is: RAPHAEL.
+
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+
+Game Over
+
+Do you want to quit (enter q/quit) or play again (enter anything else)?
+y
+
+New game is starting...
+
+
+
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 9 letter word: _ _ _ _ _ _ _ _ _
+You have 10 guesses.
+Hint: One of the famous Renaissance artists
+Number incorrect = 0	Word length = 9
+
+Enter your guess:
+l
+
+Correct!
+______ll_
+
+
+Number incorrect = 0	Word length = 9
+
+Enter your guess:
+n
+
+Correct!
+__n___ll_
+
+
+Number incorrect = 0	Word length = 9
+
+Enter your guess:
+o
+
+Correct!
+_on___llo
+
+
+Number incorrect = 0	Word length = 9
+
+Enter your guess:
+t
+
+Correct!
+_on_t_llo
+
+
+Number incorrect = 0	Word length = 9
+
+Enter your guess:
+a
+
+Correct!
+_onat_llo
+
+
+Number incorrect = 0	Word length = 9
+
+Enter your guess:
+d
+
+Correct!
+donat_llo
+
+
+Number incorrect = 0	Word length = 9
+
+Enter your guess:
+e
+
+Correct!
+donatello
+
+
+Bravo! You guessed all the letters right!
+
+You saved the day. The word is: DONATELLO.
+
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+
+Game Over
+
+Thank you for playing the game! The game is finished. In order to begin replaying, please run the program again!
+
+
+
+---------------------------------------------------
+---------------------------------------------------
+NOTES: Testing when user makes all wrong guesses.
+---------------------------------------------------
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 8 letter word: _ _ _ _ _ _ _ _
+You have 9 guesses.
+Hint: One of the famous Renaissance artists
+Number incorrect = 0	Word length = 8
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+________
+
+
+Number incorrect = 1	Word length = 8
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+________
+
+
+Number incorrect = 2	Word length = 8
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+________
+
+
+Number incorrect = 3	Word length = 8
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+________
+
+
+Number incorrect = 4	Word length = 8
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+________
+
+
+Number incorrect = 5	Word length = 8
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+________
+
+
+Number incorrect = 6	Word length = 8
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+________
+
+
+Number incorrect = 7	Word length = 8
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+________
+
+
+Number incorrect = 8	Word length = 8
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+________
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+The ship has sunk! The word is: LEONARDO.
+
+
+Game Over
+
+Do you want to quit (enter q/quit) or play again (enter anything else)?
+y
+
+New game is starting...
+
+
+
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 12 letter word: _ _ _ _ _ _ _ _ _ _ _ _
+You have 13 guesses.
+Hint: One of the famous Renaissance artists
+Number incorrect = 0	Word length = 12
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 1	Word length = 12
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 2	Word length = 12
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 3	Word length = 12
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 4	Word length = 12
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 5	Word length = 12
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 6	Word length = 12
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 7	Word length = 12
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 8	Word length = 12
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 9	Word length = 12
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 10	Word length = 12
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 11	Word length = 12
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+Number incorrect = 12	Word length = 12
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+____________
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+The ship has sunk! The word is: MICHELANGELO.
+
+
+Game Over
+
+Do you want to quit (enter q/quit) or play again (enter anything else)?
+play
+
+New game is starting...
+
+
+
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 7 letter word: _ _ _ _ _ _ _
+You have 8 guesses.
+Hint: One of the famous Renaissance artists
+Number incorrect = 0	Word length = 7
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_______
+
+
+Number incorrect = 1	Word length = 7
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_______
+
+
+Number incorrect = 2	Word length = 7
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_______
+
+
+Number incorrect = 3	Word length = 7
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_______
+
+
+Number incorrect = 4	Word length = 7
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_______
+
+
+Number incorrect = 5	Word length = 7
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_______
+
+
+Number incorrect = 6	Word length = 7
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_______
+
+
+Number incorrect = 7	Word length = 7
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_______
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+The ship has sunk! The word is: RAPHAEL.
+
+
+Game Over
+
+Do you want to quit (enter q/quit) or play again (enter anything else)?
+replay
+
+New game is starting...
+
+
+
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 9 letter word: _ _ _ _ _ _ _ _ _
+You have 10 guesses.
+Hint: One of the famous Renaissance artists
+Number incorrect = 0	Word length = 9
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+Number incorrect = 1	Word length = 9
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+Number incorrect = 2	Word length = 9
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+Number incorrect = 3	Word length = 9
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+Number incorrect = 4	Word length = 9
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+Number incorrect = 5	Word length = 9
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+Number incorrect = 6	Word length = 9
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+Number incorrect = 7	Word length = 9
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+                             _______/__/_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+Number incorrect = 8	Word length = 9
+
+Enter your guess:
+b
+Incorrect guess!
+The ship is sinking!
+                                    )___(
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+Number incorrect = 9	Word length = 9
+
+Enter your guess:
+s
+Incorrect guess!
+The ship is sinking!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+_________
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+The ship has sunk! The word is: DONATELLO.
+
+
+Game Over
+
+Thank you for playing the game! The game is finished. In order to begin replaying, please run the program again!
+
+
+
+---------------------------------------------------
+---------------------------------------------------
+NOTES: Testing where user makes a mix of correct and
+       wrong guesses.
+       Testing valid guesses.
+       Testing invalid guesses.
+---------------------------------------------------
+
+Test Case 1:
+    - A mix of correct and incorrect guesses
+    - and quits the game after the second game
+
+    Welcome to Guess or Sink!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    To save the ship from sinking, your job is to guess the 8 letter word: _ _ _ _ _ _ _ _
+    You have 9 guesses.
+    Hint: One of the famous Renaissance artists
+    Number incorrect = 0	Word length = 8
+
+    Enter your guess:
+    o
+
+    Correct!
+    __o____o
+
+
+    Number incorrect = 0	Word length = 8
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    __o____o
+
+
+    Number incorrect = 1	Word length = 8
+
+    Enter your guess:
+    l
+
+    Correct!
+    l_o____o
+
+
+    Number incorrect = 1	Word length = 8
+
+    Enter your guess:
+    s
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    l_o____o
+
+
+    Number incorrect = 2	Word length = 8
+
+    Enter your guess:
+    n
+
+    Correct!
+    l_on___o
+
+
+    Number incorrect = 2	Word length = 8
+
+    Enter your guess:
+    r
+
+    Correct!
+    l_on_r_o
+
+
+    Number incorrect = 2	Word length = 8
+
+    Enter your guess:
+    d
+
+    Correct!
+    l_on_rdo
+
+
+    Number incorrect = 2	Word length = 8
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    l_on_rdo
+
+
+    Number incorrect = 3	Word length = 8
+
+    Enter your guess:
+    a
+
+    Correct!
+    l_onardo
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    The ship has sunk! The word is: LEONARDO.
+
+
+    Game Over
+
+    Do you want to quit (enter q/quit) or play again (enter anything else)?
+    yes
+
+    New game is starting...
+
+
+
+
+    Welcome to Guess or Sink!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    To save the ship from sinking, your job is to guess the 12 letter word: _ _ _ _ _ _ _ _ _ _ _ _
+    You have 13 guesses.
+    Hint: One of the famous Renaissance artists
+    Number incorrect = 0	Word length = 12
+
+    Enter your guess:
+    s
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    ____________
+
+
+    Number incorrect = 1	Word length = 12
+
+    Enter your guess:
+    l
+
+    Correct!
+    _____l____l_
+
+
+    Number incorrect = 1	Word length = 12
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _____l____l_
+
+
+    Number incorrect = 2	Word length = 12
+
+    Enter your guess:
+    i
+
+    Correct!
+    _i___l____l_
+
+
+    Number incorrect = 2	Word length = 12
+
+    Enter your guess:
+    g
+
+    Correct!
+    _i___l__g_l_
+
+
+    Number incorrect = 2	Word length = 12
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _i___l__g_l_
+
+
+    Number incorrect = 3	Word length = 12
+
+    Enter your guess:
+    m
+
+    Correct!
+    mi___l__g_l_
+
+
+    Number incorrect = 3	Word length = 12
+
+    Enter your guess:
+    a
+
+    Correct!
+    mi___la_g_l_
+
+
+    Number incorrect = 3	Word length = 12
+
+    Enter your guess:
+    e
+
+    Correct!
+    mi__ela_gel_
+
+
+    Number incorrect = 3	Word length = 12
+
+    Enter your guess:
+    s
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    mi__ela_gel_
+
+
+    Number incorrect = 4	Word length = 12
+
+    Enter your guess:
+    c
+
+    Correct!
+    mic_ela_gel_
+
+
+    Number incorrect = 4	Word length = 12
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    mic_ela_gel_
+
+
+    Number incorrect = 5	Word length = 12
+
+    Enter your guess:
+    o
+
+    Correct!
+    mic_ela_gelo
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    The ship has sunk! The word is: MICHELANGELO.
+
+
+    Game Over
+
+    Do you want to quit (enter q/quit) or play again (enter anything else)?
+    quit
+
+    Exiting the game...
+    Thank you for playing!
+
+
+
+Test Case 2:
+    - A mix of correct and incorrect guesses
+    - plays all the four games
+
+    Welcome to Guess or Sink!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    To save the ship from sinking, your job is to guess the 8 letter word: _ _ _ _ _ _ _ _
+    You have 9 guesses.
+    Hint: One of the famous Renaissance artists
+    Number incorrect = 0	Word length = 8
+
+    Enter your guess:
+    n
+
+    Correct!
+    ___n____
+
+
+    Number incorrect = 0	Word length = 8
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    ___n____
+
+
+    Number incorrect = 1	Word length = 8
+
+    Enter your guess:
+    r
+
+    Correct!
+    ___n_r__
+
+
+    Number incorrect = 1	Word length = 8
+
+    Enter your guess:
+    s
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    ___n_r__
+
+
+    Number incorrect = 2	Word length = 8
+
+    Enter your guess:
+    o
+
+    Correct!
+    __on_r_o
+
+
+    Number incorrect = 2	Word length = 8
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    __on_r_o
+
+
+    Number incorrect = 3	Word length = 8
+
+    Enter your guess:
+    l
+
+    Correct!
+    l_on_r_o
+
+
+    Number incorrect = 3	Word length = 8
+
+    Enter your guess:
+    s
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    l_on_r_o
+
+
+    Number incorrect = 4	Word length = 8
+
+    Enter your guess:
+    e
+
+    Correct!
+    leon_r_o
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    The ship has sunk! The word is: LEONARDO.
+
+
+    Game Over
+
+    Do you want to quit (enter q/quit) or play again (enter anything else)?
+    y
+
+    New game is starting...
+
+
+
+
+    Welcome to Guess or Sink!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    To save the ship from sinking, your job is to guess the 12 letter word: _ _ _ _ _ _ _ _ _ _ _ _
+    You have 13 guesses.
+    Hint: One of the famous Renaissance artists
+    Number incorrect = 0	Word length = 12
+
+    Enter your guess:
+    g
+
+    Correct!
+    ________g___
+
+
+    Number incorrect = 0	Word length = 12
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    ________g___
+
+
+    Number incorrect = 1	Word length = 12
+
+    Enter your guess:
+    i
+
+    Correct!
+    _i______g___
+
+
+    Number incorrect = 1	Word length = 12
+
+    Enter your guess:
+    s
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _i______g___
+
+
+    Number incorrect = 2	Word length = 12
+
+    Enter your guess:
+    n
+
+    Correct!
+    _i_____ng___
+
+
+    Number incorrect = 2	Word length = 12
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _i_____ng___
+
+
+    Number incorrect = 3	Word length = 12
+
+    Enter your guess:
+    l
+
+    Correct!
+    _i___l_ng_l_
+
+
+    Number incorrect = 3	Word length = 12
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _i___l_ng_l_
+
+
+    Number incorrect = 4	Word length = 12
+
+    Enter your guess:
+    c
+
+    Correct!
+    _ic__l_ng_l_
+
+
+    Number incorrect = 4	Word length = 12
+
+    Enter your guess:
+    s
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _ic__l_ng_l_
+
+
+    Number incorrect = 5	Word length = 12
+
+    Enter your guess:
+    m
+
+    Correct!
+    mic__l_ng_l_
+
+
+    Number incorrect = 5	Word length = 12
+
+    Enter your guess:
+    o
+
+    Correct!
+    mic__l_ng_lo
+
+
+    Number incorrect = 5	Word length = 12
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    mic__l_ng_lo
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    The ship has sunk! The word is: MICHELANGELO.
+
+
+    Game Over
+
+    Do you want to quit (enter q/quit) or play again (enter anything else)?
+    o
+
+    New game is starting...
+
+
+
+
+    Welcome to Guess or Sink!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    To save the ship from sinking, your job is to guess the 7 letter word: _ _ _ _ _ _ _
+    You have 8 guesses.
+    Hint: One of the famous Renaissance artists
+    Number incorrect = 0	Word length = 7
+
+    Enter your guess:
+    p
+
+    Correct!
+    __p____
+
+
+    Number incorrect = 0	Word length = 7
+
+    Enter your guess:
+    r
+
+    Correct!
+    r_p____
+
+
+    Number incorrect = 0	Word length = 7
+
+    Enter your guess:
+    a
+
+    Correct!
+    rap_a__
+
+
+    Number incorrect = 0	Word length = 7
+
+    Enter your guess:
+    h
+
+    Correct!
+    rapha__
+
+
+    Number incorrect = 0	Word length = 7
+
+    Enter your guess:
+    e
+
+    Correct!
+    raphae_
+
+
+    Number incorrect = 0	Word length = 7
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    raphae_
+
+
+    Number incorrect = 1	Word length = 7
+
+    Enter your guess:
+    l
+
+    Correct!
+    raphael
+
+
+    Bravo! You guessed all the letters right!
+
+    You saved the day. The word is: RAPHAEL.
+
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+
+    Game Over
+
+    Do you want to quit (enter q/quit) or play again (enter anything else)?
+    y
+
+    New game is starting...
+
+
+
+
+    Welcome to Guess or Sink!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    To save the ship from sinking, your job is to guess the 9 letter word: _ _ _ _ _ _ _ _ _
+    You have 10 guesses.
+    Hint: One of the famous Renaissance artists
+    Number incorrect = 0	Word length = 9
+
+    Enter your guess:
+    o
+
+    Correct!
+    _o______o
+
+
+    Number incorrect = 0	Word length = 9
+
+    Enter your guess:
+    e
+
+    Correct!
+    _o___e__o
+
+
+    Number incorrect = 0	Word length = 9
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _o___e__o
+
+
+    Number incorrect = 1	Word length = 9
+
+    Enter your guess:
+    s
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _o___e__o
+
+
+    Number incorrect = 2	Word length = 9
+
+    Enter your guess:
+    n
+
+    Correct!
+    _on__e__o
+
+
+    Number incorrect = 2	Word length = 9
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~  \                                                   /~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _on__e__o
+
+
+    Number incorrect = 3	Word length = 9
+
+    Enter your guess:
+    t
+
+    Correct!
+    _on_te__o
+
+
+    Number incorrect = 3	Word length = 9
+
+    Enter your guess:
+    b
+    Incorrect guess!
+    The ship is sinking!
+                                        )___(
+                                 _______/__/_
+                        ___     /===========|   ___
+       ____       __   [\\\]___/____________|__[///]   __
+       \   \_____[\\]__/___________________________\__[//]___
+    ~~~ \SS                                                  |~~~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    _on_te__o
+
+
+    Number incorrect = 4	Word length = 9
+
+    Enter your guess:
+    l
+
+    Correct!
+    _on_tello
+
+
+    Number incorrect = 4	Word length = 9
+
+    Enter your guess:
+    d
+
+    Correct!
+    don_tello
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+         ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+    The ship has sunk! The word is: DONATELLO.
+
+
+    Game Over
+
+    Thank you for playing the game! The game is finished. In order to begin replaying, please run the program again!

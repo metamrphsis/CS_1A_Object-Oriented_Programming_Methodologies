@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"parser","l":"MonthlyTemperature"},{"p":"parser","l":"TemperaturesCSVReader"},{"p":"parser","l":"TestFileReader"}]

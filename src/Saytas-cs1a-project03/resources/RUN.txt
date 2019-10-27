@@ -1,0 +1,245 @@
+-----------------------------------------------------
+-----------------------------------------------------
+NOTES: Testing when user makes all correct guesses.
+-----------------------------------------------------
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 2 letter word.
+I'm thinking of my favorite number. What are the initials of the number? _ _
+You have 2 guesses for each letter.
+Can you guess the first initial? Enter your first guess:
+P
+Correct!
+The fist initial is: P_
+Can you guess the second initial? Enter your first guess:
+I
+Correct!
+The second initial is: _I
+The number is: PI
+Game Over
+
+
+
+---------------------------------------------------
+---------------------------------------------------
+NOTES: Testing when user makes all wrong guesses.
+---------------------------------------------------
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 2 letter word.
+I'm thinking of my favorite number. What are the initials of the number? _ _
+You have 2 guesses for each letter.
+Can you guess the first initial? Enter your first guess:
+s
+Incorrect guess! Enter your second guess:
+S
+Incorrect guess! Oh no the ship is sinking!
+
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+Can you guess the second initial? Enter your first guess:
+S
+Incorrect guess! Enter your second guess:
+s
+Incorrect guess! Oh no the ship is sunk!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+The number is: PI
+Game Over
+
+
+
+---------------------------------------------------
+---------------------------------------------------
+NOTES: Testing where user makes a mix of correct and
+       wrong guesses.
+       Testing valid guesses.
+       Testing invalid guesses.
+---------------------------------------------------
+
+
+
+___Case 1___:
+1st letter:
+    1st guess: False
+    2nd guess: True
+2nd letter:
+    1st guess: False
+    2nd guess: True
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 2 letter word.
+I'm thinking of my favorite number. What are the initials of the number? _ _
+You have 2 guesses for each letter.
+Can you guess the first initial? Enter your first guess:
+S
+Incorrect guess! Enter your second guess:
+p
+Correct!
+The first initial is: P_
+Can you guess the second initial? Enter your first guess:
+s
+Incorrect guess! Enter your second guess:
+I
+Correct!
+The second initial is _I
+You saved the day.
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+The number is: PI
+Game Over
+
+
+
+___Case 2___:
+1st letter:
+    1st guess: False
+    2nd guess: True
+2nd letter:
+    1st guess: False
+    2nd guess: False
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 2 letter word.
+I'm thinking of my favorite number. What are the initials of the number? _ _
+You have 2 guesses for each letter.
+Can you guess the first initial? Enter your first guess:
+S
+Incorrect guess! Enter your second guess:
+p
+Correct!
+The first initial is: P_
+Can you guess the second initial? Enter your first guess:
+s
+Incorrect guess! Enter your second guess:
+S
+Incorrect guess! Oh no the ship is sunk!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+The number is: PI
+Game Over
+
+
+
+___Case 3___:
+1st letter:
+    1st guess: False
+    2nd guess: False
+2nd letter:
+    1st guess: False
+    2nd guess: True
+
+Welcome to Guess or Sink!
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+To save the ship from sinking, your job is to guess the 2 letter word.
+I'm thinking of my favorite number. What are the initials of the number? _ _
+You have 2 guesses for each letter.
+Can you guess the first initial? Enter your first guess:
+s
+Incorrect guess! Enter your second guess:
+S
+Incorrect guess! Oh no the ship is sinking!
+
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+Can you guess the second initial? Enter your first guess:
+s
+Incorrect guess! Enter your second guess:
+I
+Correct!
+The second initial is _I
+You saved the day.
+                                    )___(
+                             _______/__/_
+                    ___     /===========|   ___
+   ____       __   [\\\]___/____________|__[///]   __
+   \   \_____[\\]__/___________________________\__[//]___
+~~~ \SS                                                  |~~~
+~~~  \                                                   /~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^	^^^^
+     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^   ^^^^     ^^^^
+
+The number is: PI
+Game Over
